@@ -12,3 +12,6 @@ GitHub Desktop: https://desktop.github.com/
 ```
 git lfs install
 ```
+
+## Основной архив распаковать в корень диска "С". Второй архив в указанное в файле место.
+## В системную переменную Path нужно добавить путь: C:\CODEBLOCKS\MinGW\bin
